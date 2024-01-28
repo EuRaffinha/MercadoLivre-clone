@@ -2,7 +2,7 @@
 
 Você pode visualizar o projeto [aqui.](https://mercado-livre-clone-kappa.vercel.app/)
 
-![](https://imgur.com/a/xQbuYjz)
+![](https://i.imgur.com/8ju7q46.png)
 
 
 
